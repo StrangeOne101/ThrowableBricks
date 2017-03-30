@@ -1,0 +1,5 @@
+name: ThrowableBricks
+version: 1.0.0 PREALPHA
+main: org.jntplumbing.throwablebricks.ThrowableBricks
+author: JnTPlumbing
+description: Allows players to throw bricks
